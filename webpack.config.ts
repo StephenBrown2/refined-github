@@ -1,5 +1,4 @@
 /// <reference types="./source/globals" />
-
 import path from 'path';
 import {readdirSync, readFileSync} from 'fs';
 import webpack from 'webpack';
